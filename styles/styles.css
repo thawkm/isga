@@ -45,6 +45,7 @@ nav {
 header{
   min-height: 20%;
 }
+
 a{
   text-decoration: none;
 }
@@ -105,7 +106,7 @@ margin-bottom: 5em;
 
 article p{
   margin: 0.5em;
-  font-size: 1em;
+  font-size: 1.2em;
   text-align: center;
   font-family: SourceSansPro-Regular;
 }
