@@ -272,6 +272,11 @@ margin-top: 1em;
   margin-top:2em;
 }
 
+.address a{
+  text-decoration: none;
+  color: black;
+}
+
 .address h3{
   font-family: SourceSansPro-Bold;
   font-size: 2em;
