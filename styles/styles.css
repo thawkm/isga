@@ -10,13 +10,13 @@ html{
 /* mmobile*/
 
 @font-face {
-  font-family: 'SourceSansPro-Bold';
-  src: url("../fonts/SourceSansPro-Bold.ttf") format('truetype');
+  font-family:'SourceSansPro-Bold';
+  src: url('../fonts/SourceSansPro-Bold.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'SourceSansPro-Reg';
-  src: url("../fonts/SourceSansPro-Regular.ttf") format('truetype');
+  font-family:'SourceSansPro-Regular';
+  src: url('../fonts/SourceSansPro-Regular.woff') format('woff');
 }
 
 
@@ -103,7 +103,7 @@ p{
 
 article p{
   margin: 0.5em;
-  font-size: 1.5em;
+  font-size: 2em;
   text-align: center;
   font-family: SourceSansPro-Regular;
 }
