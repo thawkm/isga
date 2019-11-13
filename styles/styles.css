@@ -256,7 +256,7 @@ margin-top: 1em;
 
 .article1{
   font-size: 1.3em;
-  font-family: SourceSansPro-Reg;
+  font-family: SourceSansPro-Regular;
 }
 
 .flex-container{
@@ -282,6 +282,10 @@ margin-top: 1em;
   margin-top:2em;
 }
 
+.address p{
+  font-family: SourceSansPro-Regular;
+}
+
 .address a{
   text-decoration: none;
   color: black;
@@ -293,6 +297,7 @@ margin-top: 1em;
 }
 
 .openinghours2{
+  font-family: SourceSansPro-Regular;
   display:flex;
 }
 
@@ -377,7 +382,7 @@ h4{
 }
 
 .pakket p{
-  font-family: SourceSansPro-Reg;
+  font-family: SourceSansPro-Regular;
   font-size: 1.5em;
   color: black;
 }
